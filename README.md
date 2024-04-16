@@ -1,2 +1,2 @@
-# DAA_PROJECT
-This Repository consists of the codes and executions files of my DAA Project
+# RABIN KARP ALGORITHM
+This Repository consists of the codes and executions files of Rabin Karp Algorithm in 3 languages-C,C++,Python.
